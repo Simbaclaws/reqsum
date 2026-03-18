@@ -37,3 +37,6 @@ reqsum summarize requirements.txt --no-align --cache .reqsum_cache.json
 
 ## License
 GPLv3
+
+## NOTE:
+Some categorizations are still hardcoded...

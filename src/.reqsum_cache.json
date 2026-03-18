@@ -1,0 +1,284 @@
+{
+  "aioredis": {
+    "summary": "asyncio (PEP 3156) Redis support",
+    "category": "Database & Storage",
+    "keywords": "",
+    "classifiers": [
+      "Development Status :: 5 - Production/Stable",
+      "Environment :: Web Environment",
+      "Framework :: AsyncIO",
+      "Intended Audience :: Developers",
+      "License :: OSI Approved :: MIT License",
+      "Operating System :: POSIX",
+      "Programming Language :: Python",
+      "Programming Language :: Python :: 3",
+      "Programming Language :: Python :: 3 :: Only",
+      "Programming Language :: Python :: 3.10",
+      "Programming Language :: Python :: 3.6",
+      "Programming Language :: Python :: 3.7",
+      "Programming Language :: Python :: 3.8",
+      "Programming Language :: Python :: 3.9",
+      "Topic :: Software Development",
+      "Topic :: Software Development :: Libraries"
+    ]
+  },
+  "amqp": {
+    "summary": "Low-level AMQP client for Python (fork of amqplib).",
+    "category": "Communication & Messaging",
+    "keywords": "amqp rabbitmq cloudamqp messaging",
+    "classifiers": [
+      "Development Status :: 5 - Production/Stable",
+      "Intended Audience :: Developers",
+      "License :: OSI Approved :: BSD License",
+      "Operating System :: OS Independent",
+      "Programming Language :: Python",
+      "Programming Language :: Python :: 3",
+      "Programming Language :: Python :: 3 :: Only",
+      "Programming Language :: Python :: 3.10",
+      "Programming Language :: Python :: 3.7",
+      "Programming Language :: Python :: 3.8",
+      "Programming Language :: Python :: 3.9",
+      "Programming Language :: Python :: Implementation :: CPython",
+      "Programming Language :: Python :: Implementation :: PyPy"
+    ]
+  },
+  "argon2-cffi": {
+    "summary": "Argon2 for Python",
+    "category": "Topic / Security / Cryptography",
+    "keywords": "hash, hashing, password, security",
+    "classifiers": [
+      "Development Status :: 5 - Production/Stable",
+      "Operating System :: MacOS :: MacOS X",
+      "Operating System :: Microsoft :: Windows",
+      "Operating System :: POSIX",
+      "Programming Language :: Python :: 3.10",
+      "Programming Language :: Python :: 3.11",
+      "Programming Language :: Python :: 3.12",
+      "Programming Language :: Python :: 3.13",
+      "Programming Language :: Python :: 3.14",
+      "Programming Language :: Python :: 3.8",
+      "Programming Language :: Python :: 3.9",
+      "Programming Language :: Python :: Implementation :: CPython",
+      "Programming Language :: Python :: Implementation :: PyPy",
+      "Topic :: Security :: Cryptography",
+      "Typing :: Typed"
+    ]
+  },
+  "astroid": {
+    "summary": "An abstract syntax tree for Python with inference support.",
+    "category": "Development Tools",
+    "keywords": "abstract syntax tree, python, static code analysis",
+    "classifiers": [
+      "Development Status :: 6 - Mature",
+      "Environment :: Console",
+      "Intended Audience :: Developers",
+      "Operating System :: OS Independent",
+      "Programming Language :: Python",
+      "Programming Language :: Python :: 3 :: Only",
+      "Programming Language :: Python :: 3.10",
+      "Programming Language :: Python :: 3.11",
+      "Programming Language :: Python :: 3.12",
+      "Programming Language :: Python :: 3.13",
+      "Programming Language :: Python :: 3.14",
+      "Programming Language :: Python :: Implementation :: CPython",
+      "Programming Language :: Python :: Implementation :: PyPy",
+      "Topic :: Software Development :: Libraries :: Python Modules",
+      "Topic :: Software Development :: Quality Assurance",
+      "Topic :: Software Development :: Testing"
+    ]
+  },
+  "asttokens": {
+    "summary": "Annotate AST trees with source code positions",
+    "category": "Topic / Software Development / Code Generators",
+    "keywords": "code, ast, parse, tokenize, refactor",
+    "classifiers": [
+      "Development Status :: 5 - Production/Stable",
+      "Environment :: Console",
+      "Intended Audience :: Developers",
+      "Operating System :: OS Independent",
+      "Programming Language :: Python :: 3.10",
+      "Programming Language :: Python :: 3.11",
+      "Programming Language :: Python :: 3.12",
+      "Programming Language :: Python :: 3.13",
+      "Programming Language :: Python :: 3.14",
+      "Programming Language :: Python :: 3.9",
+      "Programming Language :: Python :: Implementation :: CPython",
+      "Programming Language :: Python :: Implementation :: PyPy",
+      "Topic :: Software Development :: Code Generators",
+      "Topic :: Software Development :: Compilers",
+      "Topic :: Software Development :: Interpreters",
+      "Topic :: Software Development :: Libraries :: Python Modules",
+      "Topic :: Software Development :: Pre-processors"
+    ]
+  },
+  "attrs": {
+    "summary": "Classes Without Boilerplate",
+    "category": "Core Python Libraries",
+    "keywords": "attribute, boilerplate, class",
+    "classifiers": [
+      "Development Status :: 5 - Production/Stable",
+      "Programming Language :: Python :: 3.10",
+      "Programming Language :: Python :: 3.11",
+      "Programming Language :: Python :: 3.12",
+      "Programming Language :: Python :: 3.13",
+      "Programming Language :: Python :: 3.14",
+      "Programming Language :: Python :: 3.9",
+      "Programming Language :: Python :: Implementation :: CPython",
+      "Programming Language :: Python :: Implementation :: PyPy",
+      "Typing :: Typed"
+    ]
+  },
+  "autobahn": {
+    "summary": "WebSocket client & server library, WAMP real-time framework",
+    "category": "Communication & Messaging",
+    "keywords": "asyncio, autobahn, crossbar, pubsub, realtime, rfc6455, rpc, twisted, wamp, websocket",
+    "classifiers": [
+      "Development Status :: 5 - Production/Stable",
+      "Environment :: No Input/Output (Daemon)",
+      "Framework :: Twisted",
+      "Intended Audience :: Developers",
+      "Operating System :: OS Independent",
+      "Programming Language :: Python",
+      "Programming Language :: Python :: 3",
+      "Programming Language :: Python :: 3.11",
+      "Programming Language :: Python :: 3.12",
+      "Programming Language :: Python :: 3.13",
+      "Programming Language :: Python :: 3.14",
+      "Programming Language :: Python :: Implementation :: CPython",
+      "Programming Language :: Python :: Implementation :: PyPy",
+      "Topic :: Communications",
+      "Topic :: Internet",
+      "Topic :: Internet :: WWW/HTTP",
+      "Topic :: Software Development :: Libraries",
+      "Topic :: Software Development :: Libraries :: Python Modules",
+      "Topic :: Software Development :: Object Brokering",
+      "Topic :: System :: Distributed Computing"
+    ]
+  },
+  "Automat": {
+    "summary": "Self-service finite-state machines for the programmer on the go.",
+    "category": "Programming Language / Python",
+    "keywords": "fsm, state machine, automata",
+    "classifiers": [
+      "Intended Audience :: Developers",
+      "License :: OSI Approved :: MIT License",
+      "Operating System :: OS Independent",
+      "Programming Language :: Python",
+      "Programming Language :: Python :: 3",
+      "Programming Language :: Python :: 3.10",
+      "Programming Language :: Python :: 3.11",
+      "Programming Language :: Python :: 3.12",
+      "Programming Language :: Python :: 3.13",
+      "Programming Language :: Python :: 3.9",
+      "Typing :: Typed"
+    ]
+  },
+  "azure-communication-identity": {
+    "summary": "Microsoft Azure Communication Identity Service Client Library for Python",
+    "category": "Communication & Messaging",
+    "keywords": "azure,azure sdk",
+    "classifiers": [
+      "Development Status :: 5 - Production/Stable",
+      "License :: OSI Approved :: MIT License",
+      "Programming Language :: Python",
+      "Programming Language :: Python :: 3",
+      "Programming Language :: Python :: 3 :: Only",
+      "Programming Language :: Python :: 3.7",
+      "Programming Language :: Python :: 3.8"
+    ]
+  },
+  "azure-core": {
+    "summary": "Microsoft Azure Core Library for Python",
+    "category": "Microsoft Services",
+    "keywords": "azure, azure sdk",
+    "classifiers": [
+      "Development Status :: 5 - Production/Stable",
+      "License :: OSI Approved :: MIT License",
+      "Programming Language :: Python",
+      "Programming Language :: Python :: 3",
+      "Programming Language :: Python :: 3 :: Only",
+      "Programming Language :: Python :: 3.10",
+      "Programming Language :: Python :: 3.11",
+      "Programming Language :: Python :: 3.12",
+      "Programming Language :: Python :: 3.13",
+      "Programming Language :: Python :: 3.9"
+    ]
+  },
+  "azure-identity": {
+    "summary": "Microsoft Azure Identity Library for Python",
+    "category": "Microsoft Services",
+    "keywords": "azure, azure sdk",
+    "classifiers": [
+      "Development Status :: 5 - Production/Stable",
+      "Programming Language :: Python",
+      "Programming Language :: Python :: 3",
+      "Programming Language :: Python :: 3 :: Only",
+      "Programming Language :: Python :: 3.10",
+      "Programming Language :: Python :: 3.11",
+      "Programming Language :: Python :: 3.12",
+      "Programming Language :: Python :: 3.13",
+      "Programming Language :: Python :: 3.9"
+    ]
+  },
+  "beautifulsoup4": {
+    "summary": "Screen-scraping library",
+    "category": "Text Processing & Markup",
+    "keywords": "HTML, XML, parse, soup",
+    "classifiers": [
+      "Development Status :: 5 - Production/Stable",
+      "Intended Audience :: Developers",
+      "License :: OSI Approved :: MIT License",
+      "Programming Language :: Python",
+      "Programming Language :: Python :: 3",
+      "Topic :: Software Development :: Libraries :: Python Modules",
+      "Topic :: Text Processing :: Markup :: HTML",
+      "Topic :: Text Processing :: Markup :: SGML",
+      "Topic :: Text Processing :: Markup :: XML"
+    ]
+  },
+  "billiard": {
+    "summary": "Python multiprocessing fork with improvements and bugfixes",
+    "category": "Task Queues & Async",
+    "keywords": "multiprocessing pool process",
+    "classifiers": [
+      "Development Status :: 5 - Production/Stable",
+      "Intended Audience :: Developers",
+      "License :: OSI Approved :: BSD License",
+      "Operating System :: Microsoft :: Windows",
+      "Operating System :: POSIX",
+      "Programming Language :: C",
+      "Programming Language :: Python",
+      "Programming Language :: Python :: 3",
+      "Programming Language :: Python :: 3.10",
+      "Programming Language :: Python :: 3.11",
+      "Programming Language :: Python :: 3.12",
+      "Programming Language :: Python :: 3.13",
+      "Programming Language :: Python :: 3.8",
+      "Programming Language :: Python :: 3.9",
+      "Programming Language :: Python :: Implementation :: CPython",
+      "Programming Language :: Python :: Implementation :: PyPy",
+      "Topic :: Software Development :: Libraries :: Python Modules",
+      "Topic :: System :: Distributed Computing"
+    ]
+  },
+  "black": {
+    "summary": "The uncompromising code formatter.",
+    "category": "Testing & Code Quality",
+    "keywords": "automation, autopep8, formatter, gofmt, pyfmt, rustfmt, yapf",
+    "classifiers": [
+      "Development Status :: 5 - Production/Stable",
+      "Environment :: Console",
+      "Intended Audience :: Developers",
+      "Operating System :: OS Independent",
+      "Programming Language :: Python",
+      "Programming Language :: Python :: 3 :: Only",
+      "Programming Language :: Python :: 3.10",
+      "Programming Language :: Python :: 3.11",
+      "Programming Language :: Python :: 3.12",
+      "Programming Language :: Python :: 3.13",
+      "Programming Language :: Python :: 3.14",
+      "Topic :: Software Development :: Libraries :: Python Modules",
+      "Topic :: Software Development :: Quality Assurance"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+src/reqsum/__init__.py
+src/reqsum/annotate.py
+src/reqsum/cli.py
+src/reqsum/parser.py
+src/reqsum/pypi.py
+src/reqsum.egg-info/PKG-INFO
+src/reqsum.egg-info/SOURCES.txt
+src/reqsum.egg-info/dependency_links.txt
+src/reqsum.egg-info/entry_points.txt
+src/reqsum.egg-info/requires.txt
+src/reqsum.egg-info/top_level.txt
+tests/test_parser.py

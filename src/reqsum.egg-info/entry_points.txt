@@ -1,0 +1,2 @@
+[console_scripts]
+reqsum = reqsum.cli:main

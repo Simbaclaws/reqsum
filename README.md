@@ -34,9 +34,7 @@ reqsum summarize requirements.txt --no-align --cache .reqsum_cache.json
 ## Notes
 - This tool does **not** use AI and relies on the package summaries provided by authors on PyPI.
 - Network access is required the first time a package is seen (then cached).
-
+- Some categorizations are still hardcoded...
+- 
 ## License
 GPLv3
-
-## NOTE:
-Some categorizations are still hardcoded...
